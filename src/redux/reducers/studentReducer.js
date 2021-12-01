@@ -9,7 +9,7 @@ const initialState = [
     id: 1,
     name: "Dam thi Phuong",
     number: " 0383836425",
-    email: "phuongdam123@fmail.com",
+    email: "phuongdam123@gmail.com",
   },
 ];
 const studentReducer = (state = initialState, action) => {
